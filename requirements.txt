@@ -1,0 +1,11 @@
+bokeh==2.4.3
+numpy==1.24.2
+pandas==1.5.3
+pandas_ta==0.3.14b0
+plotly==5.24.1
+prophet==1.1.6
+python_dateutil==2.9.0.post0
+scipy==1.15.1
+streamlit==1.35.0
+streamlit_navigation_bar==3.3.0
+yfinance==0.2.54
